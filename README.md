@@ -9,6 +9,16 @@ Welcome to the "Guess My Number" game, a fun and interactive way to test your nu
 - **Highscore System:** Beat your high score by guessing the number with fewer attempts.
 - **Stylish Interface:** Enjoy a retro-style game interface with clear visual cues for game status.
 
+## Screenshots
+### Starting the game 
+
+<img width="889" alt="Screenshot 2024-02-21 at 18 13 19" src="https://github.com/MatiasPuletti/guessMyNumber/assets/68690366/2758b2b0-ca2b-432d-accc-d02c7f433344">
+
+### Winning the game
+
+<img width="891" alt="Screenshot 2024-02-21 at 17 54 00" src="https://github.com/MatiasPuletti/guessMyNumber/assets/68690366/6d6e71e8-2e52-4026-981d-988e0803cba8">
+
+
 ## How to Play Locally
 
 If you'd like to try out the "Guess My Number" game on your local machine, follow these simple steps:
